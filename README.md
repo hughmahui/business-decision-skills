@@ -33,18 +33,18 @@ Copy-Item -Recurse .\jingying, .\juece, .\shichang "$env:USERPROFILE\.codex\skil
 ### skills.sh / 一条命令安装
 
 ```bash
-npx skills add hughmahui/hughmahui
+npx skills add hughmahui/business-decision-skills
 ```
 
 只装其中一个：
 
 ```bash
-npx skills add hughmahui/hughmahui@jingying
-npx skills add hughmahui/hughmahui@juece
-npx skills add hughmahui/hughmahui@shichang
+npx skills add hughmahui/business-decision-skills@jingying
+npx skills add hughmahui/business-decision-skills@juece
+npx skills add hughmahui/business-decision-skills@shichang
 ```
 
-仓库地址：`https://github.com/hughmahui/hughmahui`
+仓库地址：`https://github.com/hughmahui/business-decision-skills`
 
 ## 使用示例
 
@@ -107,5 +107,5 @@ A bundle of three installable agent skills for business decision-making:
 - `juece` — Mao–Deng Decision Method: a seven-step decision framework drawn from the original texts.
 - `shichang` — Marketing Masters' Judgment: a marketing decision operating system distilled from ten marketing masters.
 
-Install all three with `npx skills add hughmahui/hughmahui`, or one with `npx skills add hughmahui/hughmahui@jingying`.
+Install all three with `npx skills add hughmahui/business-decision-skills`, or one with `npx skills add hughmahui/business-decision-skills@jingying`.
 
