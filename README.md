@@ -83,13 +83,17 @@ npx skills add hughmahui/hughmahui@shichang
 
 ## 许可
 
-本仓库尚未声明开源许可证，默认保留所有权利。
+本项目采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 许可。
 
-如果你希望别人自由使用、修改或商用，请补充 `LICENSE` 文件。常见选择：
+你可以自由分享、修改，甚至用于商业目的，但必须：
 
-- MIT：允许自由使用、修改、商用，需保留版权声明
-- CC BY 4.0：允许自由使用、修改、商用，需署名
-- CC BY-NC 4.0：允许使用、修改，禁止商用，需署名
+- 注明作者与出处
+- 附上许可证链接
+- 说明是否做了修改
+
+完整法律文本见 [LICENSE](LICENSE)。
+
+底层引用作品（德鲁克、波特、毛选、邓选、科特勒等）的版权归原作者及出版方所有；本许可仅覆盖本仓库作者原创的提炼、结构与表述。
 
 ## 版权说明
 
